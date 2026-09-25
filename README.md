@@ -2,7 +2,7 @@
 
 Repository tugas Laravel 12 Pertemuan 05.
 
-Implementasi tugas utama: CRUD Member berbasis Eloquent dan pencarian nama anggota.
+Implementasi tugas CRUD Member berbasis Eloquent dan pencarian nama anggota.
 
 ## Isi tugas
 - CRUD Member
